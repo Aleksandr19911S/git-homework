@@ -1,0 +1,12 @@
+.container{flex: 300px;}
+.text{width: 30px;
+    height: 30px;
+}
+.text2{
+    width: 45px;
+    height: 45px;
+}
+.img{height: 200px;
+    width: 200px;
+    float: left;
+}
